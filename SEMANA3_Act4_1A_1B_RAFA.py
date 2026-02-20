@@ -23,7 +23,7 @@ def intro():
 ┣┛┗┻┛ ┗┻┗┗ ┗┗┛┛┗┗┗┛┛  ┗┫  ┗┛┗┛┗┗ ┛┗┗┗┻┛  ┻┛┗┛┗┛ ┗┗┛┗┻┗┗┻┗┛┛
                        ┛                                   
 
-          Actividad 4 Francisco Javier Duque García , Rafael Cañada Abolafia y Pablo Sánchez Arias\n\n\n
+          Actividad 4 Rafael Cañada Abolafia \n\n\n
           
     1. Modificar el programa de multiplicación de matrices para que todas las funciones paralelas sean ejecutadas en un proceso.
         a. Implementar una versión donde no haga falta coordinación porque cada bloque

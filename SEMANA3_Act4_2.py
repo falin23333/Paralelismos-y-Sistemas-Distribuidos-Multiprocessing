@@ -16,7 +16,7 @@ def intro():
 ┣┛┗┻┛ ┗┻┗┗ ┗┗┛┛┗┗┗┛┛  ┗┫  ┗┛┗┛┗┗ ┛┗┗┗┻┛  ┻┛┗┛┗┛ ┗┗┛┗┻┗┗┻┗┛┛
                        ┛                                   
 
-          Actividad 4 Francisco Javier Duque García , Rafael Cañada Abolafia y Pablo Sánchez Arias
+          Actividad 4 Rafael Cañada Abolafia
           
 2. Modificar el programa de análisis de mercados para ejecutar todas las funciones
     paralelas en un proceso.
